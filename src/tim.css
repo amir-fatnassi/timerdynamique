@@ -1,0 +1,13 @@
+.button
+{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+input
+{
+    background-color: rgb(101, 104, 240);
+    margin: 30px;
+    font-size: 1em;
+}
